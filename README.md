@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/neon_avik" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_of_Twitter.svg&psig=AOvVaw36xuQGrbad8Z4kzb7Gj06Y&ust=1686762651650000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICf2tfewP8CFQAAAAAdAAAAABAE" alt="neon_avik" height="30" width="40"/></a>
+
 <a href="https://linkedin.com/in/avik banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avik banerjee" height="30" width="40" /></a>
 <a href="https://fb.com/avik banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avik banerjee" height="30" width="40" /></a>
 <a href="https://instagram.com/neon_avik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neon_avik" height="30" width="40" /></a>
