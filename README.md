@@ -1,4 +1,4 @@
-![logo](https://github.com/AVIKBANERJEE/AVIKBANERJEE/blob/main/Banner.jpg)
+<h1 align="center"><img style="width: 100%" src="https://github.com/AVIKBANERJEE/AVIKBANERJEE/blob/7c8d84d19825233594752668c7d463e741014527/Banner.jpg"></h1>
 <h1 align="center">Hi 👋, I'm Avik Banerjee</h1>
 <h3 align="center">A passionate Software Engineer from India</h3> 
 
