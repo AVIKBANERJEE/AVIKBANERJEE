@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JAVASCRIPT,VUE-JS,REACT**
 
-- 👨‍💻 All of my projects are available at [https://classy-bublanina-0b8055.netlify.app/](https://classy-bublanina-0b8055.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-2-avikbanerjee.vercel.app/](https://portfolio-2-avikbanerjee.vercel.app/)
 
 - ⚡ Fun fact **I am a funny guy!!**
 
